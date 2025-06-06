@@ -41,11 +41,10 @@ To address these challenges, we have developed a platform that leverages agentic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aniketwarule/Crazy8_ByteCamp2025.git
+   git clone https://github.com/AdityaNik/Donation-Platform.git
    ```
 2. Navigate to the project directory (Frontend):
    ```bash
-   cd NGOLedger
    cd donate-chain-fr
    ```
 3. Install the necessary dependencies:
@@ -58,7 +57,6 @@ To address these challenges, we have developed a platform that leverages agentic
    ```
 5. Navigate to the project directory (Backend):
    ```bash
-   cd NGOLedger
    cd donation-backend-bc
    ```
 6. Install the necessary dependencies:
